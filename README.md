@@ -1,6 +1,7 @@
 # GUIagent-goormghost
 for enhancing UX
 
+https://claude.ai/code/artifact/3ebdf584-ec60-4691-b5b0-c718512eec3d
 
 코딩테스트 플랫폼을 에이전트가 실제 응시자처럼 응시해보는 GUI 에이전트.
 화면 캡처 → Qwen VL이 판단 → 마우스·키보드 조작 → 반복.
