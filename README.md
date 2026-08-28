@@ -8,6 +8,11 @@ The point is not to solve the problems well. The point is to see **where it gets
 
 <img width="1640" height="585" alt="image" src="https://github.com/user-attachments/assets/c9da230a-5a1c-47b6-a7f4-15868e71682f" />
 
+[ Motivation Figure ]
+
+
+
+
 
 
 <img width="384" height="204" alt="image" src="https://github.com/user-attachments/assets/9314c17e-6d43-4626-90cd-12b0f8cdabe8" />
