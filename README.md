@@ -6,9 +6,13 @@ Capture the screen → Qwen VL decides → move the mouse and type → repeat.
 
 The point is not to solve the problems well. The point is to see **where it gets stuck**.
 
-<img width="1640" height="585" alt="image" src="https://github.com/user-attachments/assets/c9da230a-5a1c-47b6-a7f4-15868e71682f" />
+
 
 [ Motivation Figure ]
+
+<img width="1640" height="585" alt="image" src="https://github.com/user-attachments/assets/c9da230a-5a1c-47b6-a7f4-15868e71682f" />
+
+
 
 
 
